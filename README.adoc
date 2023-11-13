@@ -29,6 +29,7 @@ endif::[]
 :url-project-docs: https://docs.asciidoctor.org/pdf-converter/latest
 :url-prawn: https://prawnpdf.org
 :url-rvm: https://rvm.io
+:sectnums:
 
 ifdef::status[]
 image:https://img.shields.io/badge/zulip-join_chat-brightgreen.svg[project chat,link=https://asciidoctor.zulipchat.com/]
